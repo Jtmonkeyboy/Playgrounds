@@ -1,0 +1,10 @@
+//: Playground - noun: a place where people can play
+
+import UIKit
+
+var firstString = "Hello, playground😉"
+var donutString = "I love donuts!🍩 I want to eat a donut right now!\nThe chocolate kind with vanilla filling in the middle is the best."
+var faceString = "ミへ(シ)ノ"
+print(firstString)
+print(donutString)
+print(faceString)
