@@ -8,3 +8,7 @@ var face = "ミへ(シ)ノ"
 print(firstString)
 print(donutString)
 print(face)
+var integer = 20
+var favNumber = 2
+var answer = integer + favNumber
+print(answer)
